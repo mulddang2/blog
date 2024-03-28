@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[react] 이벤트 핸들러.."
+title: "[React] 이벤트 핸들러.."
 date: 2024-01-25 19:31:29 +0900
-category: react
+category: React
 ---
 
 ### 1. 이벤트 핸들러는 컴포넌트 내부에 선언하기

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[javascript] for...of 쓰임 및 특징 (핵심, 예시X)"
+title: "[JavaScript] for...of 쓰임 및 특징 (핵심, 예시X)"
 date: 2024-02-02 19:31:29 +0900
-category: javascript
+category: JavaScript
 ---
 
 # for ... of 쓰임 및 특징

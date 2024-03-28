@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[book] CODE chapter 1. 친한 친구와의 대화"
+title: "[Book] CODE chapter 1. 친한 친구와의 대화"
 date: 2024-03-27 19:31:29 +0900
-category: book
+category: Book
 ---
 
 <!-- ![banner](https://cdn.jsdelivr.net/gh/slowhigh/slowhigh.github.io@main/assets/images/programming-terminology.jpg) -->

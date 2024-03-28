@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[setting] VS Code - 코드 스니펫 만들기"
+title: "[Setting] VS Code - 코드 스니펫 만들기"
 date: 2023-12-21 19:31:29 +0900
-category: setting
+category: Setting
 ---
 
 ![banner](https://velog.velcdn.com/images/js4072751/post/9e140118-5944-47bc-9326-42a5a77ba893/image.jpg)  
@@ -72,9 +72,12 @@ import react 부분은 최상단에서만 대부분 사용하는 것 같아 일�
 - ${1:}은 코드 생성시 처음으로 커서 포커스가 가는 부분 --> $1을 동시에 설정했으니, 동시에 파일명 바꿀 수 있음
 - TM_FILENAME_BASE: 확장자 빼고 현재 파일 문서명 따름
 - ${2:} 는 탭 누르면 그다음으로 포커스가 가는 부분
+  <br />
+  <br />
 
-> 참고문서
->
-> VS Code :
-> [https://code.visualstudio.com/docs/editor/userdefinedsnippets#\_create-your-own-snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_create-your-own-snippets){:target="\_blank"} <br />
-> blog : [https://likejirak.tistory.com/143](https://likejirak.tistory.com/143){:target="\_blank"}
+**참고자료**
+
+<hr />
+VS Code :
+[https://code.visualstudio.com/docs/editor/userdefinedsnippets#\_create-your-own-snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_create-your-own-snippets){:target="\_blank"} <br />
+blog : [https://likejirak.tistory.com/143](https://likejirak.tistory.com/143){:target="\_blank"}
