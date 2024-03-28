@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+```shell
+> bundle install
+> bundle exec jekyll serve --force_polling
+```
+
 ## Theme Monos
 > Simple and lightweight theme for Jekyll
 
