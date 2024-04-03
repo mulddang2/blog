@@ -32,7 +32,7 @@ Tailwind를 프로젝트에 도입해보고자, 만들어본 예제입니다.
 ```
 
 결과 UI는 다음과 같습니다.
-
+![신호등 예제 이미지](https://cdn.jsdelivr.net/gh/mulddang2/blog@main/public/img/traffic-light.png)
 
 
 
