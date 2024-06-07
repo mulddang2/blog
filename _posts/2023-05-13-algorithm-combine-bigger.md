@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[COTE] 더 크게 합치기"
+title: "[Algorithm] 더 크게 합치기"
 date: 2023-05-13 19:20:23 +0900
-category: COTE
+category: Algorithm
 ---
 
 ### 📖 들어가며
