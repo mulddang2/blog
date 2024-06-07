@@ -2,7 +2,7 @@
 layout: post
 title: "[Tailwind CSS] 모르는 className 공부 및 활용"
 date: 2024-04-03 19:16:29 +0900
-category: Tailwind CSS
+category: TailwindCSS
 ---
 
 ```

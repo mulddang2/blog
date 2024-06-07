@@ -2,7 +2,7 @@
 layout: post
 title: "[Tailwind CSS] 신호등 만들기 예제"
 date: 2024-04-03 19:16:29 +0900
-category: Tailwind CSS
+category: TailwindCSS
 ---
 Tailwind를 프로젝트에 도입해보고자, 만들어본 예제입니다.
 
