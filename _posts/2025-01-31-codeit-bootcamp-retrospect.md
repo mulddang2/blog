@@ -29,7 +29,7 @@ category: Retrospect
 - 여러 개의 에러 메시지를 JSON 문자열(`JSON.stringify(errors)`)로 변환하여 반환.
 - `render` 함수 내에서 `JSON.parse(error.message)`를 사용해 문자열을 다시 배열로 변환하여 UI에서 처리.
 
-![alt text](/blog/public/img/codeit-bootcamp-retrospect-troubleshooting.png)
+![alt text](https://cdn.jsdelivr.net/gh/mulddang2/blog@main/public/img/codeit-bootcamp-retrospect-troubleshooting.png)
 
 ### 3. 세 번의 협업 프로젝트 중, 하이라이트 프로젝트!
 
